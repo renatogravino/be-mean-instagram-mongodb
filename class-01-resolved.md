@@ -14,8 +14,8 @@ autor: Renato Gravinio Neto
 ## Contando os restaurantes
 
     ```
-gravino(mongod-3.0.3) suissa> var dbp = db.restaurantes;
-gravino(mongod-3.0.3) suissa> dbp.find().count();
-25359
-gravino(mongod-3.0.3) suissa> 
+	gravino(mongod-3.0.3) suissa> var dbp = db.restaurantes;
+	gravino(mongod-3.0.3) suissa> dbp.find().count();
+	25359
+	gravino(mongod-3.0.3) suissa> 
     ```
